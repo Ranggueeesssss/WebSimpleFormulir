@@ -1,0 +1,234 @@
+{
+    "timestamp": "2026-02-11 14:21:43",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:21:46",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:21:54",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "pekan baru",
+        "pesan": "lnishiwhi"
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:22:05",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:22:08",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:22:10",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:27:23",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:54:27",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "pekan baru",
+        "pesan": "kbjb"
+    },
+    "file": "uploads\/1770818067_b07c515b5b0a67972c27592888b54769.jpg"
+}
+---
+{
+    "timestamp": "2026-02-11 14:54:32",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:55:39",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:56:17",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:56:19",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-11 14:56:33",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 06:35:09",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "pekan baru",
+        "pesan": "ojefonfoj"
+    },
+    "file": "uploads\/1770874509_b07c515b5b0a67972c27592888b54769.jpg"
+}
+---
+{
+    "timestamp": "2026-02-12 06:35:36",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 06:36:16",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 06:36:56",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 06:37:10",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "pekan baru",
+        "pesan": "knkibihbiih"
+    },
+    "file": "uploads\/1770874630_c9ae682dbf00cd7ee1549eb91d420787.jpg"
+}
+---
+{
+    "timestamp": "2026-02-12 06:37:45",
+    "data": [],
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 07:47:43",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "pekan baru",
+        "pesan": ""
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 07:57:25",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "jakarta",
+        "pesan": "lqjohdsophodj"
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 08:03:36",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "jakarta",
+        "pesan": ""
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 08:04:01",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "jakarta",
+        "pesan": ""
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 08:04:34",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "pekan baru",
+        "pesan": "rrrrrrrrrrrrrrrrrrrrrrr"
+    },
+    "file": "uploads\/1770879874_b07c515b5b0a67972c27592888b54769.jpg"
+}
+---
+{
+    "timestamp": "2026-02-12 08:11:29",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "jakarta",
+        "pesan": ""
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 08:11:59",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "jakarta",
+        "pesan": ""
+    },
+    "file": null
+}
+---
+{
+    "timestamp": "2026-02-12 08:16:38",
+    "data": {
+        "nama": "rangga anak ugm",
+        "email": "E31252396@gmail.com",
+        "telepon": "00999888",
+        "kota": "jakarta",
+        "pesan": ""
+    },
+    "file": null
+}
+---
